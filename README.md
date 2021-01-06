@@ -1,19 +1,20 @@
-<h1 align="center">Hi, I'm lovo</h1>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=liovo&label=Profile%20views&color=0e75b6&style=flat" alt="liovo" /> </p>
+### Hi there 👋, I'm lovo
+I made this for fun, if you have any issues or problems please feel free to contact me on Discord **@lovo#0001**.
 
-- 🔭 I’m currently working on [an Among Us bot](https://github.com/lIovo/Among-Us-Bot)
+Skills: Discord.js x TypeScript
 
-- ⚡ Join my [Discord Server](https://discord.gg/5TEs9kq3HF)
-
-- 🌱 I’m currently learning **Discord.JS x TypeScript x HTML x Photoshop**
-
-- 📫 How to reach me **lovo#0001** on Discord
-
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://discord.js.org/#/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=liovo&show_icons=true&locale=en&layout=compact" alt="liovo" /></p>
+- 🔭 I’m currently working on an Among Us Discord bot 
+- 👯 I’m looking to collaborate on Discord bots 
+- 📫 How to reach me: lovo#0001 VIA Discord 
+- 😄 Pronouns: nor/mal 
 
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=liovo&show_icons=true&locale=en" alt="liovo" /></p>
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/liovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/5TEs9kq3HF)  
+
+<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liovo)](https://github.com/anuraghazra/github-readme-stats)
+
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=liovo&show_icons=true&count_private=true)  
+
+![Profile views](https://gpvc.arturio.dev/liovo)  
