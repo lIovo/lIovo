@@ -1,20 +1,16 @@
-### Hi there 👋, I'm lovo
-I made this for fun, if you have any issues or problems please feel free to contact me on Discord **@lovo#0001**.
+# Hi There! I'm lovo 👋
 
-Skills: Discord.js x TypeScript
-
-- 🔭 I’m currently working on an Among Us Discord bot 
-- 👯 I’m looking to collaborate on Discord bots 
-- 📫 How to reach me: lovo#0001 VIA Discord 
-- 😄 Pronouns: nor/mal 
-
-
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/liovo)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/discord.svg' alt='discord' height='40'>](https://discord.gg/5TEs9kq3HF)  
-
-<a href='https://archiveprogram.github.com/'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/acbadge.gif' width='40' height='40'></a> 
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=liovo)](https://github.com/anuraghazra/github-readme-stats)
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=liovo&show_icons=true&count_private=true)  
-
-![Profile views](https://gpvc.arturio.dev/liovo)  
+### Discords
+[![Developer Discord](https://discordapp.com/api/guilds/771135731966935071/widget.png?style=banner4)](https://discord.gg/bx83zy7Vye)
+[![FiveM Server](https://discordapp.com/api/guilds/815091639257268284/widget.png?style=banner4)](https://discord.gg/89D8q2Hf8U)
+---
+### Media
+[![y](https://img.shields.io/badge/-lovo-FF0000?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/channel/UC8uCaf4QGuS71oC6P4kvgOQ)
+[![y](https://img.shields.io/badge/-Discord-7289DA?style=for-the-badge&logo=Discord&logoColor=white)](https://discord.com/users/646087652814225439)
+---
+### Code
+- Projects 📚: [Among Us Bot](https://top.gg/bot/769351346180587551), [FiveM Server](https://servers.fivem.net/servers/detail/zjr39y)
+- Known languages ⌨️: JavaScript, TypeScript, LUA
+---
+### GitHub Stats
+![dd](https://github-readme-stats-eight-theta.vercel.app/api?username=lIovo&show_icons=true&theme=react&include_all_commits=true&count_private)
